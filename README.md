@@ -17,12 +17,12 @@ Efficient data loading and pagination for long lists.
 Screenshots
 Blog List Screen
 This is the main screen where users can see a list of available blog posts.
-![WhatsApp Image 2024-11-16 at 15 35 17_7d314df4](https://github.com/user-attachments/assets/e166a2cc-7c4b-48a9-83a6-c7c9cd02399e)
+
 
 
 Individual Blog Content Screen
 This screen displays the full content of a selected blog post inside a WebView.
-![WhatsApp Image 2024-11-16 at 15 35 17_4047d226](https://github.com/user-attachments/assets/b9228b01-dc97-4585-beb7-0051d99b9a13)
+
 
 
 Installation
